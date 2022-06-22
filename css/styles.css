@@ -1,0 +1,19 @@
+button {
+  border: 1px solid pink;
+  background-color: pink;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+#my-container {
+  width: 475px;
+  height: 475px;
+  background: #E9D8F5;
+  position: relative;
+}
+
+#animate-penguin {
+  width: 75px;
+  position: absolute;
+}
